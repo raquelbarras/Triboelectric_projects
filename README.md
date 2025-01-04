@@ -1,11 +1,11 @@
 # Triboelectric Projects
 
-This repository consists of a portfolio of diferent projects on the topic of my PhD project on Triboelectric Power Converters.
+This repository consists of a portfolio of diferent projects I've developed on the topic of my PhD project on Triboelectric Power Converters.
 
- - [Link to PhD manuscript](https://run.unl.pt/handle/10362/162994) -
+[Link to PhD manuscript](https://run.unl.pt/handle/10362/162994)
 
 
-You can learn more about some of the projects I've been involved by clicking the following links:
+You can learn more about the projects by clicking the following links:
 
 - Analysis of Voltage Peaks from the electric power output of a Triboelectric Converter: [Link to Notebook](https://github.com/raquelbarras/Triboelectric_projects/blob/main/Voltage_Peak_Analysis.ipynb)
 

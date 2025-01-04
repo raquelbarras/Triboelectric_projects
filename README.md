@@ -2,9 +2,7 @@
 
 This repository consists of a portfolio of diferent projects on the topic of my PhD project on Triboelectric Power Converters.
 
-- [Link to PhD manuscript](https://run.unl.pt/handle/10362/162994) -
-
-<p style="text-align: center;">Centered text</p>
+ - [Link to PhD manuscript](https://run.unl.pt/handle/10362/162994) -
 
 
 You can learn more about some of the projects I've been involved by clicking the following links:

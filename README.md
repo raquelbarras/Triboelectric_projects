@@ -1,11 +1,11 @@
 # Triboelectric Nanogenerators
 
-This repository consists of a portfolio of some of the diferent projects I've developed on the topic of my PhD project on Triboelectric Nanogenerators (TENGs).
+This repository highlights data cleaning and visualization techniques in Python, featuring examples from various projects developed during my PhD research on Triboelectric Nanogenerators (TENGs).
 
 [Link to PhD manuscript](https://run.unl.pt/handle/10362/162994)
 
 
-You can learn more about the projects by clicking the following links:
+Learn more about the project:
 
 - Analysis of Voltage Peaks from the electric power output of a Triboelectric Converter: [Link to Project](https://github.com/raquelbarras/Triboelectric_projects/blob/main/Voltage_Peak_Analysis.ipynb)
 
